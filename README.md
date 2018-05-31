@@ -7,7 +7,7 @@ Here all the latest LSI SAS2108 based FW can be found.
 
 It includes FW from LSI, IBM, Dell, Oracle, SuperMicro, Fujitsu and Intel.
 
-sas2108
+[sas2108](https://drive.google.com/open?id=1gmBCkyYrGQbInOof3BMi3aROA9zU7o9r "Google Drive")
 
 How to flash the SAS2108 based cards:
 
@@ -31,7 +31,9 @@ Done
 
 Latest BIOS from Firmware Package 12.12.0-0124
 
-BIOS 3.25.00_4.12.05.00_0x05180000.00 7/25/20
+[BIOS 3.25.00_4.12.05.00_0x05180000.00 7/25/20](https://github.com/yoriyatana/SAS2108-LSI9260/blob/master/0124_bio.rom)
+
+
 
 Use Megarec or Megacli or MSM to flash to controller, nothing else will be updated only BIOS
 
